@@ -1,0 +1,63 @@
+envelope_id: 1453662c-6cf8-4d98-8dfc-56045a66867a
+payload: 
+  token: UIUsyWIcDfcDHiSarFaVXqgL
+  team_id: TCK3777TN
+  context_team_id: TCK3777TN
+  context_enterprise_id: NULL
+  api_app_id: A06PXBYGL0L
+  event: 
+    type: message
+    subtype: message_deleted
+    previous_message: 
+      user: UCK9PHX18
+      type: message
+      ts: 1724953400.139129
+      client_msg_id: dc2ca590-8ccb-432f-86ba-84334b537433
+      text: test
+      team: TCK3777TN
+      blocks: #(#<HASH-TABLE :TEST EQUAL :COUNT 3 {7008B74DA3}>)
+    channel: C07JT253ZLN
+    hidden: T
+    deleted_ts: 1724953400.139129
+    event_ts: 1724953695.002400
+    ts: 1724953695.002400
+    channel_type: group
+  type: event_callback
+  event_id: Ev07K50JEN66
+  event_time: 1724953695
+  authorizations: #(#<HASH-TABLE :TEST EQUAL :COUNT 5 {7008B75403}>)
+  is_ext_shared_channel: NIL
+  event_context: 4-eyJldCI6Im1lc3NhZ2UiLCJ0aWQiOiJUQ0szNzc3VE4iLCJhaWQiOiJBMDZQWEJZR0wwTCIsImNpZCI6IkMwN0pUMjUzWkxOIn0
+type: events_api
+accepts_response_payload: NIL
+retry_attempt: 0
+retry_reason: 
+
+envelope_id: bc31e35d-e825-4c1f-8532-216e7b2a70f7
+payload: 
+  token: UIUsyWIcDfcDHiSarFaVXqgL
+  team_id: TCK3777TN
+  context_team_id: TCK3777TN
+  context_enterprise_id: NULL
+  api_app_id: A06PXBYGL0L
+  event: 
+    user: UCK9PHX18
+    type: message
+    ts: 1724983046.963989
+    client_msg_id: b6dca69c-860e-4e54-80af-37ecc821d96c
+    text: ok
+    team: TCK3777TN
+    blocks: #(#<HASH-TABLE :TEST EQUAL :COUNT 3 {7006743B93}>)
+    channel: C07JT253ZLN
+    event_ts: 1724983046.963989
+    channel_type: group
+  type: event_callback
+  event_id: Ev07JSDGUFTR
+  event_time: 1724983046
+  authorizations: #(#<HASH-TABLE :TEST EQUAL :COUNT 5 {7006744133}>)
+  is_ext_shared_channel: NIL
+  event_context: 4-eyJldCI6Im1lc3NhZ2UiLCJ0aWQiOiJUQ0szNzc3VE4iLCJhaWQiOiJBMDZQWEJZR0wwTCIsImNpZCI6IkMwN0pUMjUzWkxOIn0
+type: events_api
+accepts_response_payload: NIL
+retry_attempt: 0
+retry_reason: 
